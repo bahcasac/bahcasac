@@ -1,17 +1,14 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/bahcasac?style=social)
-<a href="https://www.linkedin.com/in/barbaracasac/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-
 
 ## Hi, folks! 👋
 
+<div>
 Barbara Casac is JavaScript/Node & TypeScript developer. She loves helping and learning!
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" />
+<div>
 
-
-Outside of development, Barbara enjoys learn new languages, love meeting different people and cultures, watch movies! 
-
+## 💻 Technologies
 
 <p align="center">
 
@@ -24,7 +21,13 @@ Outside of development, Barbara enjoys learn new languages, love meeting differe
 
 </p>
 
+## 📺 Life
+<p align="center">
+Outside of development, Barbara enjoys learn new languages, love meeting different people and cultures, watch movies! 
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" />
+
+</p>
 ## 🎯 Let's Keep in Touch and Follow me 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbaracasac/)
