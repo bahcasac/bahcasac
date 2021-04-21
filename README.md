@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bahcasac.visitor-badge)
+
 ![GitHub followers](https://img.shields.io/github/followers/bahcasac?style=social)
 
-<p align='center'>
+<p align='right'>
 <a href="https://www.linkedin.com/in/barbaracasac/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 </p>
