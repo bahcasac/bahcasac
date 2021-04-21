@@ -1,38 +1,16 @@
-### Hi there 👋
-
-<!--
-**bahcasac/bahcasac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 ![GitHub followers](https://img.shields.io/github/followers/bahcasac?style=social)
-
-<p align='right'>
 <a href="https://www.linkedin.com/in/barbaracasac/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-
-</p>
 
 
 ## Hi, folks! 👋
 
 Barbara Casac is JavaScript/Node & TypeScript developer. She loves helping and learning!
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" />
 
 
-
-Outside of development, Barbara enjoys learn new languages, love meeting different people and cultures, watch movies!
+Outside of development, Barbara enjoys learn new languages, love meeting different people and cultures, watch movies! 
 
 
 <p align="center">
