@@ -1,5 +1,5 @@
 
-![GitHub followers](https://img.shields.io/github/followers/bahcasac?style=social)
+
 
 ## Hi, folks! 👋
 
