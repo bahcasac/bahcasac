@@ -4,7 +4,7 @@
 ## Hi, folks! 👋
 
 <div>
-Barbara Casac is JavaScript/Node & TypeScript developer. She loves helping and learning!
+Barbara Casac is Golang & TypeScript developer. She loves helping and learning!
 
 <div>
 
